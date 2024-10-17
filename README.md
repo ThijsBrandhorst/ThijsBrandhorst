@@ -124,4 +124,4 @@ Here are some of the projects I have made:
 
 - **Email**: [thijsbrandhorst007@gmail.com](mailto:thijsbrandhorst007@gmail.com)
 - **LinkedIn**: [Thijs Brandhorst](https://www.linkedin.com/in/thijs-brandhorst/)
-- **Instagram**: [@thijs.brandhorst](https://www.instagram.com/thijs.brandhorst/)
+- **Instagram**: [thijs.brandhorst](https://www.instagram.com/thijs.brandhorst/)
