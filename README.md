@@ -105,9 +105,9 @@ I'm a 2nd-year software development student, passionate about building full-stac
 
 Here are some of the projects I have made:
 
-- **[Meal Madness - Cooking game]((https://github.com/ThijsBrandhorst/Meal-Madness))** – A single- or multiplayer game where you need to make as much meals as possible within a time limit.
-- **[Task Management System]((https://github.com/ThijsBrandhorst/TaskFlow))** – A PHP-based task mananger that helps users organize and track their tasks efficiently with a minimalistic UI.
-- **[CardGame]((https://github.com/ThijsBrandhorst/CardGame))** – A Java-based card game that makes you guess if the next card is higher or lower then your current card.
+- **[Meal Madness - Cooking game](https://github.com/ThijsBrandhorst/Meal-Madness)** – A single- or multiplayer game where you need to make as much meals as possible within a time limit.
+- **[Task Management System](https://github.com/ThijsBrandhorst/TaskFlow)** – A PHP-based task manager that helps users organize and track their tasks efficiently with a minimalistic UI.
+- **[CardGame](https://github.com/ThijsBrandhorst/CardGame)** – A Java-based card game that makes you guess if the next card is higher or lower than your current card.
 
 ---
 
