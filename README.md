@@ -8,13 +8,6 @@ I'm a 2nd-year software development student, passionate about building full-stac
 
 ---
 
-### 🚧 What I'm Working On
-
-- 🔨 **Spandon** – A Badminton stringing app to help you string your rackets and manage your customers, rackets, coils and more in 1 app.
-- 📝 Learning more about **Unreal Engine** and improving my skills.
-
----
-
 ### 🛠 Skills & Technologies
 
 #### **Languages:**
